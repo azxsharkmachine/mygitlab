@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-sample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
@@ -36,3 +37,6 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+=======
+# mygitlab
+>>>>>>> 6eed829c18fa704ecd6d7005849209c2069b36a7
